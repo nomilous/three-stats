@@ -1,0 +1,14 @@
+{
+  "name": "three-stats",
+  "repo": "nomilous/three-stats",
+  "description": "three.js - stats",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
